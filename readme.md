@@ -1,46 +1,37 @@
-
-  
-  
-  ![alt text](image.png)
-  
-  
-  
-  
-  
-  
-  - Ushbu arraydagi string indeksini toping.!
+![alt text](image.png)
 
 
-         const array = [[false,true], [1,2], 99, 'Good.!'];
+    Ushbu arraydagi string indeksini toping.!
+
+    const array = [[false,true], [1,2], 99, 'Good.!'];
 
   <hr>
 
-- Array ichidagi faqat arraylarni ajratiboling.!
+    Array ichidagi faqat arraylarni ajratiboling.!
 
-       const data=[[1,2,3], 'red', [4,5,6], true, false];
-
-  <hr>
-
-
- - Array ichidagi [null, 0, '', false, undefined, NaN] qiymatlarni ajratiboladigan cod yozing.! */
-
-       const checkData = [null, 'false', 0, 99, false, undefined, '', NaN, '0'];
+    const data=[[1,2,3], 'red', [4,5,6], true, false];
 
   <hr>
 
- -  Berilgan qiymat  "qashqadaryo.!" 
+    Array ichidagi [null, 0, '', false, undefined, NaN] qiymatlarni ajratiboladigan cod yozing.! \*/
 
-        qiymatni teskari ya'ni "oyradaqshaq.!" ko'rinishida yozibberadigan cod yozing.!
+    const checkData = [null, 'false', 0, 99, false, undefined, '', NaN, '0'];
+
+  <hr>
+
+    Berilgan qiymat "qashqadaryo.!"
+
+    qiymatni teskari ya'ni "oyradaqshaq.!" ko'rinishida yozibberadigan cod yozing.!
 
    <hr>
 
     Promptdan kiritilgan istalgan so'zlarni,  misol uchun.kiritiladi: "AsSSalomu ALAyKUM YaxShmisiz" so'zi kiritilgan bo'lsa.Uni: "aSSALOMU aLAYKUM yAXSHIMISIZ" ko'rinishida qaytaring.
- 
+
   <hr>
 
- -  Arraydagi natural raqamlar yig'indisini topadigan cod yozing.!
+    Arraydagi natural raqamlar yig'indisini topadigan cod yozing.!
 
-        let num = [-12, 34, null, 12, undefined, 0, Infinity, 'ssd',1, 3];
+    let num = [-12, 34, null, 12, undefined, 0, Infinity, 'ssd',1, 3];
 
  <hr>
 
@@ -60,11 +51,12 @@
 
  <hr>
 
- -  Berilgan sonning tarkibidagi sonlar yig'indisini toping.!
+    Berilgan sonning tarkibidagi sonlar yig'indisini toping.!
 
-        1+2+3=6, 1+2+3+...+10=55, 1+2+3+...+7=28
- <hr>
- 
+    1+2+3=6, 1+2+3+...+10=55, 1+2+3+...+7=28
+
+  <hr>
+
     Berilgan sonni n ga ko'paytirib 1 ni qo'shadigan cod yozing.!
 
  <hr>
@@ -72,9 +64,3 @@
     array kiritsak array ichidagi raqamlarni manfiy ishorali mos raqamlar bilan almashtiribberadigan funcsiya tuzing.!
 
  <hr>
-
-
-
-
-
-
