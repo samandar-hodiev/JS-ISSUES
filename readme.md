@@ -13,7 +13,7 @@
 
   <hr>
 
-    Array ichidagi [null, 0, '', false, undefined, NaN] qiymatlarni ajratiboladigan cod yozing.! \*/
+    Array ichidagi [null, 0, '', false, undefined, NaN] qiymatlarni ajratiboladigan cod yozing.! 
 
     const checkData = [null, 'false', 0, 99, false, undefined, '', NaN, '0'];
 
